@@ -5,7 +5,7 @@ import Comment from "@/components/Comment";
 import { comments } from "@/libs/comments";
 import { useState} from "react";
 export default function Home() {
- // const [users, setUsers] = useState([]);
+  //const [users, setUsers] = useState([]);
   return (
     <div
       style={{ minHeight: "100vh", backgroundColor: "ghostwhite" }}
